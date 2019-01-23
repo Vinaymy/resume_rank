@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>IOTA</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/job_spec_form.css') }}">
+
+</head>
+
+<body class="bg-light">
+
+    <div class="container">
+        <div class="py-5 text-center">
+            <h4>Job Description/Specification Form</h4>
+        </div>
+
+        <div class="row">
+
+            <!-- ##################################### -->
+            <!--             RIGHT SIDE DIV             -->
+            <!-- ##################################### -->
+            <div class="col-md-4 order-md-2 mb-4">
+                <h4 class="d-flex justify-content-between align-items-center mb-3">
+                    <span class="text-muted">Side Heading</span>
+                    <span class="badge badge-secondary badge-pill">#</span>
+                </h4>
+                <div style=" min-width: 100%; min-height: 75%;">
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home"
+                                aria-selected="true">Web development</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile"
+                                aria-selected="false">Database</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Machine Learning</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile"
+                                aria-selected="false">Education</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Artificial Intelligence</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile"
+                                aria-selected="false"></a>
+                        </li>
+                    </ul>
+                    <div class="tab-content" id="pills-tabContent">
+                        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+                            <ul>
+                                <li>ASP.net</li>
+                                <li>SQL Server</li>
+                                <li>SQL</li>
+                                <li>C#</li>
+                                <li>C++</li>
+                                <li>Reactjs</li>
+                            </ul>
+                        </div>
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">2</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MAIN FORM AREA -->
+            <div class="col-md-8 order-md-1">
+                <h4 class="mb-3">Technical | Skills Requirements</h4>
+                <form class="needs-validation" novalidate action="/final_js_form_data" method="POST" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Must Have Keywords</span>
+                            </div>
+                            <textarea class="form-control" name='form-must-have-keywords' placeholder="Keywords separated by commas" rows="4" autocomplete="off"></textarea>
+
+                            <div class="invalid-feedback" style="width: 100%;">
+                                At least one word is required.
+                            </div>
+                        </div>
+                        <!-- End of must have keywords -->
+                    </div>
+
+                    <div class="mb-3">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Optional Keywords</span>
+                            </div>
+                            <textarea class="form-control" name='form-optional-keywords' placeholder="Keywords separated by commas" rows="4" autocomplete="off"></textarea>
+                        </div>
+                        <!-- End of optional keywords -->
+                    </div>
+
+                    <hr>
+
+                    <!-- Education degree-->
+                    <div class="mb-3">
+
+                        <span>
+                            <h4 class="mb-3">Education</h4>
+                        </span>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Degree</span>
+                            </div>
+
+                            <textarea name="form-education-degree" class="form-control" placeholder="Multiple possible" autocomplete="off"></textarea>
+
+                            <br>
+                            <div class="text-muted" style="width: 100%;">
+                                Multiple values must be seperated using commas
+                            </div>
+                        </div>
+                        <!-- End of Education container -->
+                    </div>
+
+                    <!-- Education Field of study-->
+                    <div class="mb-3">
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Field of Study</span>
+                            </div>
+                            <textarea name="form-education-field-study" class="form-control" placeholder="Multiple possible" autocomplete="off"></textarea>
+                            <br>
+                            <div class="text-muted" style="width: 100%;">
+                                Multiple values must be seperated using commas
+                            </div>
+                        </div>
+                        <!-- End of Education container -->
+                    </div>
+
+
+
+
+                    <hr>
+
+                    <!-- Experience -->
+                    <div class="mb-3">
+
+                        <span>
+                            <h4 class="mb-3">Experience</h4>
+                        </span>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Minimum Experience</span>
+                            </div>
+                            <input type="number" min="0" max="30" name="form-minimum-experience" class="form-control" placeholder="In Years">
+                            <!-- <div class="invalid-feedback" style="width: 100%;">
+                                    At least one word is required.
+                                </div> -->
+                        </div>
+                        <!-- End of experience container -->
+                    </div>
+
+                    <hr>
+                    <!-- Location -->
+                    <div class="mb-3">
+
+                        <span>
+                            <h4 class="mb-3">Location</h4>
+                        </span>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Location</span>
+                            </div>
+                            <input type="text" name="form-location" class="form-control" placeholder="Name of City">
+                            <!-- <div class="invalid-feedback" style="width: 100%;">
+                                            At least one word is required.
+                                        </div> -->
+                        </div>
+                        <!-- End of location container -->
+                    </div>
+
+
+                    <!-- Form Submit -->
+                    <hr class="mb-4">
+                    <button class="btn btn-primary btn-md btn-block" style="max-width: 25%;" type="submit">Submit</button>
+                </form>
+            </div>
+
+        </div>
+
+
+        <footer class="my-5 pt-5 text-muted text-center text-small">
+            <p class="mb-1">&copy; Iota Analytics</p>
+            <ul class="list-inline">
+                <li class="list-inline-item">
+                    <a href="#">IDS Infotech</a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#">Terms</a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#">Support</a>
+                </li>
+            </ul>
+        </footer>
+    </div>
+
+    <!-- Bootstrap 4 Javascript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+
+    <!-- Form related -->
+    <script>
+        // JavaScript for disabling form submissions if there are invalid fields
+        (function () {
+            'use strict';
+
+            window.addEventListener('load', function () {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.getElementsByClassName('needs-validation');
+
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+        })();
+    </script>
+</body>
+
+</html>

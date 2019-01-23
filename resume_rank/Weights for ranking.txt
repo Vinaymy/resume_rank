@@ -1,0 +1,19 @@
+As per discussion on 20/12/2018
+
+Required Keywords - 0.5
+Years of experience - 0.3
+Optional Keyword - 0.1
+Education Degree - 0.1
+
+
+Approach:
+
+Divide the weights above by count of Job Specification Keywords (For Required Keywords and Optional keywords)
+
+
+As per disussion on 24/12/2018
+
+Required Keywords - 0.3
+Years of experience - 0.5
+Optional Keywords - 0.1
+Education degree - 0.1

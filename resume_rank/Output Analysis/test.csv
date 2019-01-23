@@ -1,0 +1,151 @@
+Name,Cosine Similarity Must Have Keywords,Cosine Similarity Optional Keywords,Education Degree,Education Major,Must Have Keywords Frequencies,Optional keywords Frequencies,Percentage Match Must Have,Percentage Match Optional,Years of Experience
+DEVENDRA KUMAR NAGAYACH TL,0.746003847,0.816496581,masters,edu major not found,"{'c#': 9, 'asp net': 11, 'jquery': 5, 'c': 1}","{'sql server': 15, 'ms access': 1}",31.00%,50.00%,10
+Nitin Gupta TL,0.625543242,0.816496581,masters,computer science,"{'c#': 19, 'asp net': 15, 'jquery': 1}","{'sql server': 20, 'ms access': 2}",23.00%,50.00%,10
+Dharmesh Piplani,0.589767825,0.816496581,masters,edu major not found,"{'c#': 5, 'c': 1}","{'sql server': 8, 'ms access': 2}",15.00%,50.00%,10
+SIDHARTH MITTAL,0.746003847,0.577350269,masters,edu major not found,"{'c#': 15, 'asp net': 14, 'jquery': 2, 'c': 2}",{'sql server': 13},31.00%,25.00%,9
+Prashanna Kumar Jha,0.729800449,0.816496581,masters,edu major not found,"{'c': 2, 'c#': 23, 'asp net': 10}","{'sql server': 2, 'ms access': 2}",23.00%,50.00%,9
+PALAK GAUTAM,0.729800449,0.577350269,bachelors,edu major not found,"{'c#': 9, 'asp net': 8, 'c': 1}",{'sql server': 4},23.00%,25.00%,9
+Rajnish Pandey,0.746003847,0.577350269,masters,edu major not found,"{'c#': 17, 'jquery': 9, 'asp net': 13, 'c': 1}",{'sql server': 2},31.00%,25.00%,8
+VISHAL THAKUR,0.746003847,0.577350269,masters,edu major not found,"{'c#': 9, 'jquery': 3, 'asp net': 5, 'c': 2}",{'sql server': 5},31.00%,25.00%,8
+AMIT KUMAR,0.652753366,0.577350269,masters,edu major not found,"{'c#': 2, 'jquery': 1, 'c++': 1, 'asp net': 4}",{'sql server': 1},31.00%,25.00%,8
+Rahul Dogra,0.625543242,0.577350269,masters,edu major not found,"{'c#': 8, 'jquery': 2, 'asp net': 6}",{'sql server': 6},23.00%,25.00%,8
+Sanjay Singh Bisht,0.442325868,0,masters,edu major not found,"{'jquery': 2, 'c': 2}",{},15.00%,0.00%,8
+Zaffar Ali,0.208514414,0,masters,edu major not found,{'wordpress': 1},{},8.00%,0.00%,8
+ChandanKumar[8_0],0,0,bachelors,information technology,{},{},0.00%,0.00%,8
+Gurpreet Singh Jalandhar,0.746003847,0.816496581,masters,information technology,"{'c#': 9, 'asp net': 7, 'jquery': 3, 'c': 1}","{'sql server': 8, 'ms access': 1}",31.00%,50.00%,7
+Gurpreet Singh,0.746003847,0.816496581,masters,information technology,"{'c#': 11, 'asp net': 9, 'jquery': 3, 'c': 1}","{'sql server': 8, 'ms access': 1}",31.00%,50.00%,7
+Ravi Kumar Murugesan TL,0.652753366,0.577350269,masters,computer science,"{'c#': 13, 'asp net': 9, 'jquery': 6, 'c++': 1}",{'sql server': 10},31.00%,25.00%,7
+Aman Singh,0.625543242,0.577350269,masters,edu major not found,"{'c#': 2, 'asp net': 3, 'jquery': 1}",{'sql server': 4},23.00%,25.00%,7
+Bhupinder Singh,0.625543242,0.577350269,masters,edu major not found,"{'jquery': 2, 'c#': 1, 'asp net': 3}",{'sql server': 9},23.00%,25.00%,7
+Sumit Sharma,0.625543242,0.577350269,masters,edu major not found,"{'jquery': 10, 'asp net': 9, 'c#': 7}",{'sql server': 2},23.00%,25.00%,7
+Vishal Bajaj,0.417028828,0.816496581,masters,edu major not found,{'c#': 4},"{'ms access': 11, 'sql server': 20}",8.00%,50.00%,7
+Ritender,0,0,bachelors,edu major not found,{},{},0.00%,0.00%,7
+Damanpreet Kaur,0.766130878,0.816496581,bachelors,computer science,"{'c#': 14, 'jquery': 12, 'c': 1, 'c++': 1, 'asp net': 16}","{'sql server': 3, 'ms access': 1}",38.00%,50.00%,6
+Ajit pal singh,0.746003847,0.577350269,masters,edu major not found,"{'jquery': 9, 'asp net': 9, 'c#': 9, 'c': 1}",{'sql server': 11},31.00%,25.00%,6
+Umar Daraj,0.746003847,0.577350269,masters,edu major not found,"{'c#': 8, 'jquery': 7, 'asp net': 9, 'c': 1}",{'sql server': 8},31.00%,25.00%,6
+Sunil,0.625543242,0.577350269,degree not found,edu major not found,"{'c#': 9, 'asp net': 10, 'jquery': 1}",{'sql server': 11},23.00%,25.00%,6
+Sandeep Singh,0.601929265,0.577350269,masters,edu major not found,"{'c#': 8, 'asp net': 9}",{'sql server': 6},15.00%,25.00%,6
+Abhilash Kumar VBA,0,0.816496581,masters,edu major not found,{},"{'sql server': 7, 'ms access': 16}",0.00%,50.00%,6
+Pushpinder Kumar,0.766130878,0.577350269,masters,edu major not found,"{'c#': 9, 'jquery': 7, 'asp net': 8, 'c': 1, 'c++': 1}",{'sql server': 7},38.00%,25.00%,5
+Monish Kumar,0.746003847,0.577350269,bachelors,edu major not found,"{'c#': 8, 'asp net': 10, 'jquery': 4, 'c': 4}",{'sql server': 10},31.00%,25.00%,5
+Sourav Attri,0.746003847,0.577350269,masters,edu major not found,"{'asp net': 10, 'c#': 14, 'jquery': 7, 'c': 1}",{'sql server': 7},31.00%,25.00%,5
+Vivek Kumar Tripathi,0.746003847,0.577350269,masters,edu major not found,"{'c#': 26, 'c': 1, 'jquery': 6, 'asp net': 8}",{'sql server': 23},31.00%,25.00%,5
+Mohammad Ahkam,0.729800449,0.912870929,masters,edu major not found,"{'c#': 4, 'asp net': 4, 'c': 4}","{'sql server': 9, 'postgresql': 1, 'ms access': 1}",23.00%,75.00%,5
+Nihal Singh,0.625543242,0.577350269,masters,edu major not found,"{'jquery': 2, 'asp net': 3, 'c#': 3}",{'sql server': 4},23.00%,25.00%,5
+ROHIN SHARMA,0.625543242,0.577350269,degree not found,edu major not found,"{'c#': 2, 'jquery': 1, 'asp net': 2}",{'sql server': 1},23.00%,25.00%,5
+Varun Kumar Misra,0.625543242,0.577350269,bachelors,information technology,"{'c#': 8, 'jquery': 4, 'asp net': 8}",{'sql server': 4},23.00%,25.00%,5
+Vivek Malik,0.625543242,0.577350269,bachelors,computer science,"{'c#': 6, 'c++': 4, 'asp net': 1}",{'sql server': 1},23.00%,25.00%,5
+Gitesh Kumar,0.481543412,0.577350269,masters,information technology,"{'jquery': 8, 'asp net': 2}",{'sql server': 3},15.00%,25.00%,5
+Kamal Gupta AWS,0,0,bachelors,computer science,{},{},0.00%,0.00%,5
+Ajay Kumar,0.746003847,0.816496581,degree not found,edu major not found,"{'c': 7, 'c#': 1, 'jquery': 1, 'asp net': 1}","{'sql server': 1, 'ms access': 1}",31.00%,50.00%,4
+Akhilesh Kumar Chaudhary,0.746003847,0.816496581,masters,information technology,"{'c#': 12, 'jquery': 7, 'asp net': 11, 'c': 1}","{'sql server': 14, 'ms access': 1}",31.00%,50.00%,4
+Aman Oberoi,0.746003847,0.577350269,masters,edu major not found,"{'jquery': 2, 'asp net': 3, 'c': 2, 'c#': 1}",{'sql server': 5},31.00%,25.00%,4
+AMBIKA PRASAD ,0.746003847,0.577350269,masters,edu major not found,"{'jquery': 8, 'asp net': 14, 'c#': 9, 'c': 2}",{'sql server': 8},31.00%,25.00%,4
+Ashok Maurya,0.746003847,0.577350269,masters,edu major not found,"{'c#': 3, 'asp net': 15, 'jquery': 7, 'c': 1}",{'sql server': 6},31.00%,25.00%,4
+PANKAJ KUMAR,0.746003847,0.577350269,masters,edu major not found,"{'c#': 8, 'jquery': 12, 'asp net': 9, 'c': 1}",{'sql server': 9},31.00%,25.00%,4
+Rakesh Kumar,0.746003847,0.577350269,masters,information technology,"{'asp net': 5, 'c': 1, 'c#': 11, 'jquery': 6}",{'sql server': 2},31.00%,25.00%,4
+Tarun Tayal,0.746003847,0.577350269,degree not found,edu major not found,"{'c#': 6, 'asp net': 7, 'c++': 1, 'c': 1}",{'sql server': 3},31.00%,25.00%,4
+YUVRAJ SHARMA,0.746003847,0.577350269,degree not found,information technology,"{'c#': 4, 'asp net': 2, 'c': 1, 'jquery': 1}",{'sql server': 4},31.00%,25.00%,4
+Angrej Singh,0.652753366,0.577350269,bachelors,edu major not found,"{'wordpress': 1, 'c#': 4, 'jquery': 9, 'asp net': 3}",{'sql server': 5},31.00%,25.00%,4
+Annu Rani,0.625543242,0.816496581,bachelors,computer science,"{'jquery': 2, 'c#': 2, 'asp net': 2}","{'sql server': 3, 'ms access': 1}",23.00%,50.00%,4
+Deepak Goyal,0.625543242,0.816496581,bachelors,computer science,"{'c#': 6, 'asp net': 6, 'jquery': 1}","{'sql server': 9, 'ms access': 1}",23.00%,50.00%,4
+Rajinder Kumar,0.625543242,0.816496581,degree not found,edu major not found,"{'c#': 7, 'asp net': 5, 'jquery': 1}","{'sql server': 5, 'ms access': 1}",23.00%,50.00%,4
+PARUL JAIN,0.625543242,0.707106781,masters,computer science,"{'c#': 12, 'asp net': 9, 'jquery': 4}","{'sql server': 7, 'postgresql': 2}",23.00%,50.00%,4
+Amarjit Singh,0.625543242,0.577350269,masters,edu major not found,"{'asp net': 12, 'c#': 1, 'jquery': 7}",{'sql server': 13},23.00%,25.00%,4
+Ashwani Taneja,0.625543242,0.577350269,masters,edu major not found,"{'asp net': 7, 'c#': 4, 'jquery': 7}",{'sql server': 9},23.00%,25.00%,4
+Himanshu Gupta,0.625543242,0.577350269,bachelors,edu major not found,"{'asp net': 4, 'c#': 11, 'jquery': 10}",{'sql server': 7},23.00%,25.00%,4
+Jatin,0.625543242,0.577350269,masters,edu major not found,"{'c#': 10, 'asp net': 10, 'jquery': 6}",{'sql server': 15},23.00%,25.00%,4
+KARAN SHARMA,0.625543242,0.577350269,masters,edu major not found,"{'c#': 12, 'asp net': 15, 'jquery': 5}",{'sql server': 7},23.00%,25.00%,4
+Lakhvinder Kumar,0.625543242,0.577350269,masters,edu major not found,"{'jquery': 6, 'asp net': 4, 'c#': 2}",{'sql server': 5},23.00%,25.00%,4
+Nikhil Kumar Jain,0.625543242,0.577350269,bachelors,edu major not found,"{'asp net': 5, 'jquery': 5, 'c#': 3}",{'sql server': 2},23.00%,25.00%,4
+Rajesh Dhiman,0.625543242,0.577350269,masters,edu major not found,"{'c#': 8, 'jquery': 12, 'asp net': 5}",{'sql server': 4},23.00%,25.00%,4
+Rajpal,0.625543242,0.577350269,masters,edu major not found,"{'c#': 7, 'jquery': 6, 'asp net': 8}",{'sql server': 9},23.00%,25.00%,4
+Shiv kanwer Singh Sidhu,0.625543242,0.577350269,bachelors,computer science,"{'c#': 11, 'jquery': 3, 'asp net': 3}",{'sql server': 3},23.00%,25.00%,4
+Supreet Sethi,0.625543242,0.577350269,masters,edu major not found,"{'c#': 9, 'jquery': 8, 'asp net': 6}",{'sql server': 10},23.00%,25.00%,4
+Paramjeet Singh,0.625543242,0,masters,edu major not found,"{'c#': 7, 'jquery': 3, 'asp net': 1}",{},23.00%,0.00%,4
+ROHIT KUMAR,0.625543242,0,bachelors,information technology,"{'c#': 6, 'asp net': 7, 'jquery': 5}",{},23.00%,0.00%,4
+Vikash Shukla,0.601929265,0.816496581,masters,edu major not found,"{'c#': 13, 'asp net': 8}","{'ms access': 3, 'sql server': 12}",15.00%,50.00%,4
+Harinder Kaur,0.601929265,0.577350269,bachelors,computer science,"{'c#': 1, 'asp net': 1}",{'sql server': 3},15.00%,25.00%,4
+Nisha Pathania,0.601929265,0.577350269,bachelors,computer science,"{'c#': 6, 'asp net': 6}",{'sql server': 2},15.00%,25.00%,4
+Vaneet Kumar,0.601929265,0.577350269,degree not found,edu major not found,"{'c#': 5, 'asp net': 5}",{'sql server': 4},15.00%,25.00%,4
+Sharanjit Singh,0.510753918,0.577350269,bachelors,edu major not found,"{'c': 2, 'c++': 1, 'objective c': 1}",{'ms access': 1},23.00%,25.00%,4
+ACHIN VERMA,0,0.577350269,bachelors,edu major not found,{},{'ms access': 1},0.00%,25.00%,4
+POONAM DEVI,0.788110406,0.577350269,bachelors,computer science,"{'c#': 1, 'asp net': 2, 'jquery': 5, 'node js': 1, 'c': 1}",{'sql server': 5},38.00%,25.00%,3
+CHANDAN DEEP,0.766130878,0.577350269,degree not found,information technology,"{'jquery': 18, 'asp net': 17, 'c': 1, 'c++': 1, 'c#': 14}",{'sql server': 14},38.00%,25.00%,3
+Preet Pal,0.766130878,0.577350269,bachelors,edu major not found,"{'asp net': 1, 'c#': 1, 'c++': 1, 'c': 1, 'wordpress': 4}",{'sql server': 4},38.00%,25.00%,3
+Gaurav Kumar,0.746003847,0.577350269,bachelors,computer science,"{'jquery': 7, 'c#': 7, 'c': 2, 'asp net': 7}",{'sql server': 5},31.00%,25.00%,3
+Nishant Kumar,0.746003847,0.577350269,bachelors,edu major not found,"{'c#': 10, 'jquery': 6, 'asp net': 7, 'c': 2}",{'sql server': 14},31.00%,25.00%,3
+Savita Jaswal,0.746003847,0.577350269,bachelors,edu major not found,"{'c#': 7, 'c': 1, 'c++': 1, 'asp net': 6}",{'sql server': 9},31.00%,25.00%,3
+Sonia Sharma,0.746003847,0.577350269,masters,edu major not found,"{'c': 1, 'c#': 4, 'asp net': 1, 'jquery': 7}",{'sql server': 7},31.00%,25.00%,3
+Sourav Angra,0.746003847,0.577350269,masters,edu major not found,"{'c#': 7, 'asp net': 3, 'jquery': 3, 'c': 1}",{'sql server': 8},31.00%,25.00%,3
+Khwahish Batra,0.709299366,0.577350269,bachelors,computer science,"{'c#': 8, 'asp net': 6, 'node js': 1, 'jquery': 3, 'c++': 1}",{'sql server': 8},38.00%,25.00%,3
+Sarabpreet Singh Bedi,0.652753366,0.816496581,bachelors,computer science,"{'c++': 6, 'c#': 7, 'asp net': 7, 'jquery': 3}","{'sql server': 6, 'ms access': 1}",31.00%,50.00%,3
+Vibha,0.652753366,0.577350269,masters,information technology,"{'c#': 3, 'asp net': 1, 'c++': 1, 'jquery': 1}",{'sql server': 1},31.00%,25.00%,3
+Aakash Gautam,0.625543242,0.577350269,bachelors,information technology,"{'c#': 1, 'jquery': 2, 'asp net': 3}",{'sql server': 2},23.00%,25.00%,3
+CHIRAG,0.625543242,0.577350269,bachelors,computer science,"{'jquery': 3, 'c#': 1, 'asp net': 1}",{'sql server': 3},23.00%,25.00%,3
+Jayoti Parkash,0.625543242,0.577350269,masters,edu major not found,"{'c#': 3, 'asp net': 11, 'jquery': 8}",{'sql server': 9},23.00%,25.00%,3
+Mohammad Fayaz Ali,0.625543242,0.577350269,bachelors,edu major not found,"{'c#': 7, 'asp net': 5, 'jquery': 4}",{'sql server': 7},23.00%,25.00%,3
+Naveen Chopra,0.625543242,0.577350269,bachelors,information technology,"{'c#': 8, 'asp net': 4, 'jquery': 4}",{'sql server': 8},23.00%,25.00%,3
+NencyNKadia,0.625543242,0.577350269,masters,edu major not found,"{'c#': 9, 'jquery': 4, 'asp net': 1}",{'sql server': 7},23.00%,25.00%,3
+Priyanka Kumari,0.625543242,0.577350269,bachelors,edu major not found,"{'c#': 7, 'asp net': 9, 'jquery': 1}",{'sql server': 5},23.00%,25.00%,3
+Rajesh Kumar Swain,0.625543242,0.577350269,bachelors,edu major not found,"{'asp net': 2, 'jquery': 6, 'c#': 5}",{'sql server': 4},23.00%,25.00%,3
+Upkaar Singh,0.625543242,0.577350269,masters,edu major not found,"{'c#': 19, 'asp net': 13, 'jquery': 11}",{'sql server': 2},23.00%,25.00%,3
+Venkatesh Mahendru,0.625543242,0.577350269,masters,computer science,"{'jquery': 4, 'c#': 5, 'asp net': 3}",{'sql server': 6},23.00%,25.00%,3
+YOGESH BELWAL,0.625543242,0.577350269,masters,computer science,"{'c#': 7, 'asp net': 5, 'jquery': 2}",{'sql server': 6},23.00%,25.00%,3
+Dinesh Kumar,0.601929265,0.577350269,bachelors,edu major not found,"{'c#': 6, 'asp net': 6}",{'sql server': 8},15.00%,25.00%,3
+Hemlata V. Deshmukh,0.601929265,0.577350269,degree not found,information technology,"{'c#': 4, 'asp net': 4}",{'sql server': 5},15.00%,25.00%,3
+Amrit Pal Kaur,0.589767825,0.816496581,bachelors,edu major not found,"{'c#': 1, 'c': 2}","{'ms access': 3, 'sql server': 1}",15.00%,50.00%,3
+Deepak Singh ,0,0,masters,information technology,{},{},0.00%,0.00%,3
+KUSHMINDER GARG,0,0,degree not found,computer science,{},{},0.00%,0.00%,3
+MANNU KUMAR,0,0,bachelors,computer science,{},{},0.00%,0.00%,3
+Saurav kumar,0,0,degree not found,edu major not found,{},{},0.00%,0.00%,3
+PUNEET GUPTA,0.766130878,0.816496581,degree not found,computer science,"{'c': 2, 'c++': 1, 'c#': 7, 'jquery': 10, 'asp net': 6}","{'ms access': 1, 'sql server': 7}",38.00%,50.00%,2
+Sunil Prasad,0.746003847,0.816496581,masters,edu major not found,"{'c#': 4, 'asp net': 9, 'c': 1, 'jquery': 2}","{'sql server': 5, 'ms access': 1}",31.00%,50.00%,2
+Rahul Kumar,0.746003847,0.577350269,masters,edu major not found,"{'c#': 9, 'asp net': 9, 'jquery': 5, 'c': 1}",{'sql server': 7},31.00%,25.00%,2
+NEERAJ KUMAR POKHARIYAL,0.625543242,0.816496581,masters,computer science,"{'c#': 9, 'asp net': 9, 'jquery': 7}","{'sql server': 10, 'ms access': 1}",23.00%,50.00%,2
+AMRENDER SINGH,0.625543242,0.577350269,degree not found,edu major not found,"{'c#': 2, 'asp net': 3, 'jquery': 1}",{'sql server': 5},23.00%,25.00%,2
+Manish Dhindsa,0.625543242,0.577350269,bachelors,computer science,"{'c#': 2, 'jquery': 3, 'asp net': 2}",{'sql server': 2},23.00%,25.00%,2
+Bharat Arora,0.625543242,0,bachelors,edu major not found,"{'asp net': 1, 'c++': 1, 'c#': 1}",{},23.00%,0.00%,2
+Leela Bisht,0.766130878,0.577350269,masters,computer science,"{'c#': 5, 'asp net': 6, 'jquery': 5, 'c': 1, 'c++': 1}",{'sql server': 2},38.00%,25.00%,1
+KANIKA RASTOGI,0.729800449,0.577350269,bachelors,edu major not found,"{'c#': 4, 'asp net': 3, 'c': 1}",{'sql server': 3},23.00%,25.00%,1
+SATYENDRA SINGH,0.625543242,0,masters,information technology,"{'c#': 5, 'asp net': 2, 'jquery': 3}",{},23.00%,0.00%,1
+Harpreet Kaur,0.601929265,0.577350269,bachelors,edu major not found,"{'c': 2, 'c#': 2, 'jquery': 1}",{'sql server': 2},23.00%,25.00%,1
+SAGAR KUMAR,0.601929265,0.577350269,degree not found,edu major not found,"{'asp net': 5, 'c#': 3}",{'sql server': 5},15.00%,25.00%,1
+Sachin Rana,0.442325868,0,bachelors,edu major not found,"{'firebase': 3, 'c': 2}",{},15.00%,0.00%,1
+Avinash Sachdewani,0.788110406,0.577350269,bachelors,edu major not found,"{'c#': 5, 'asp net': 3, 'node js': 2, 'jquery': 4, 'c': 1}",{'sql server': 5},38.00%,25.00%,0
+LALIT KUMAR azure,0.766130878,0.577350269,bachelors,edu major not found,"{'c#': 12, 'c': 2, 'c++': 2, 'jquery': 13, 'asp net': 2}",{'sql server': 7},38.00%,25.00%,0
+SUNIL KUMAR,0.766130878,0.577350269,masters,edu major not found,"{'c#': 4, 'jquery': 6, 'asp net': 2, 'c++': 3, 'c': 3}",{'sql server': 9},38.00%,25.00%,0
+Pranav Kshatriya,0.746003847,0.816496581,masters,information technology,"{'c#': 3, 'asp net': 5, 'c++': 1, 'c': 2}","{'sql server': 13, 'ms access': 1}",31.00%,50.00%,0
+Puneet Goel,0.746003847,0.816496581,degree not found,edu major not found,"{'jquery': 8, 'asp net': 5, 'c': 1, 'c#': 3}","{'sql server': 2, 'ms access': 1}",31.00%,50.00%,0
+Sanjay Kumar Sharma,0.746003847,0.816496581,masters,computer science,"{'c': 3, 'c++': 1, 'c#': 1, 'asp net': 4}","{'sql server': 3, 'ms access': 1}",31.00%,50.00%,0
+VIRENDRA PRASAD,0.746003847,0.816496581,masters,edu major not found,"{'c': 2, 'asp net': 9, 'jquery': 8, 'c#': 12}","{'sql server': 16, 'ms access': 1}",31.00%,50.00%,0
+Anuj Kumar,0.746003847,0.577350269,masters,edu major not found,"{'asp net': 14, 'c#': 21, 'c': 1, 'jquery': 1}",{'sql server': 27},31.00%,25.00%,0
+Atul Dhiman,0.746003847,0.577350269,masters,information technology,"{'c#': 15, 'asp net': 5, 'jquery': 9, 'c': 3}",{'sql server': 1},31.00%,25.00%,0
+Gaurav Saxena,0.746003847,0.577350269,masters,edu major not found,"{'c': 3, 'c#': 3, 'c++': 2, 'asp net': 1}",{'sql server': 1},31.00%,25.00%,0
+GEETIKA NAURIYAL,0.746003847,0.577350269,bachelors,edu major not found,"{'c': 1, 'asp net': 10, 'c#': 7, 'jquery': 3}",{'sql server': 8},31.00%,25.00%,0
+Ramesh Kumar Maurya,0.746003847,0.577350269,masters,edu major not found,"{'c#': 9, 'asp net': 9, 'c': 1, 'jquery': 2}",{'sql server': 10},31.00%,25.00%,0
+Sadhana Tripathi,0.746003847,0.577350269,bachelors,edu major not found,"{'c': 1, 'c++': 1, 'c#': 1, 'asp net': 4}",{'sql server': 4},31.00%,25.00%,0
+Shanu Kumar,0.746003847,0.577350269,bachelors,computer science,"{'c#': 2, 'jquery': 2, 'asp net': 1, 'c': 1}",{'sql server': 5},31.00%,25.00%,0
+VIPIN KUMAR,0.746003847,0.577350269,bachelors,edu major not found,"{'c': 1, 'c++': 1, 'c#': 4, 'asp net': 3}",{'sql server': 3},31.00%,25.00%,0
+Gulshan Singh,0.729800449,0.577350269,bachelors,edu major not found,"{'c': 2, 'c#': 11, 'asp net': 10}",{'sql server': 12},23.00%,25.00%,0
+Ranjeet Kumar Pandey_Azure,0.729800449,0.577350269,masters,edu major not found,"{'c#': 9, 'asp net': 11, 'c': 2}",{'sql server': 20},23.00%,25.00%,0
+Samridhi Davesar,0.729800449,0.577350269,bachelors,information technology,"{'c#': 6, 'asp net': 4, 'c': 1}",{'sql server': 5},23.00%,25.00%,0
+Baljeet Singh,0.652753366,0.816496581,masters,information technology,"{'c': 5, 'jquery': 2, 'asp net': 4, 'c++': 1}","{'sql server': 4, 'ms access': 1}",31.00%,50.00%,0
+Bhupinder Sharma,0.625543242,0.816496581,masters,edu major not found,"{'c#': 10, 'asp net': 11, 'jquery': 5}","{'ms access': 1, 'sql server': 9}",23.00%,50.00%,0
+Tarsem Singh,0.625543242,0.816496581,bachelors,computer science,"{'asp net': 3, 'jquery': 3, 'c#': 5}","{'sql server': 5, 'ms access': 2}",23.00%,50.00%,0
+Deepak Kumar,0.625543242,0.577350269,degree not found,edu major not found,"{'c#': 2, 'jquery': 1, 'asp net': 6}",{'sql server': 11},23.00%,25.00%,0
+MADHUSUDAN SINGH KUSHWAH,0.625543242,0.577350269,masters,edu major not found,"{'c#': 15, 'asp net': 18, 'jquery': 2}",{'sql server': 16},23.00%,25.00%,0
+Manjit Singh,0.625543242,0.577350269,bachelors,computer science,"{'asp net': 10, 'jquery': 7, 'c#': 10}",{'sql server': 3},23.00%,25.00%,0
+NAVEEN KUMR,0.625543242,0.577350269,bachelors,edu major not found,"{'asp net': 7, 'jquery': 2, 'c#': 2}",{'sql server': 4},23.00%,25.00%,0
+PREMPREET KAUR,0.625543242,0.577350269,bachelors,information technology,"{'jquery': 5, 'asp net': 8, 'c#': 7}",{'sql server': 7},23.00%,25.00%,0
+Prince Kumar,0.625543242,0.577350269,masters,computer science,"{'c#': 11, 'jquery': 7, 'asp net': 6}",{'sql server': 7},23.00%,25.00%,0
+Raj Kumar,0.625543242,0.577350269,masters,edu major not found,"{'asp net': 7, 'jquery': 8, 'c#': 2}",{'sql server': 7},23.00%,25.00%,0
+Sukhjeet Singh,0.625543242,0.577350269,degree not found,edu major not found,"{'c#': 10, 'asp net': 5, 'c++': 1}",{'sql server': 8},23.00%,25.00%,0
+RajbirSingh,0.601929265,0.816496581,masters,edu major not found,"{'c#': 1, 'asp net': 1}","{'ms access': 6, 'sql server': 1}",15.00%,50.00%,0
+Lokendra Kumar,0.601929265,0.577350269,bachelors,information technology,"{'c#': 3, 'asp net': 4}",{'sql server': 2},15.00%,25.00%,0
+AASHISH GARG,0.442325868,0.577350269,bachelors,computer science,"{'jquery': 4, 'c#': 4}",{'sql server': 5},15.00%,25.00%,0
+Kshif Ahmad Khan,0,0.816496581,degree not found,edu major not found,{},"{'sql server': 8, 'ms access': 4}",0.00%,50.00%,0
+Mukesh Sharma,0,0.577350269,bachelors,edu major not found,{},{'sql server': 1},0.00%,25.00%,0
+Deepak Dinesh AWS,0,0,bachelors,computer science,{},{},0.00%,0.00%,0
+Parveen Kumar,0,0,bachelors,information technology,{},{},0.00%,0.00%,0
+Rakesh Dadhich,0,0,masters,edu major not found,{},{},0.00%,0.00%,0

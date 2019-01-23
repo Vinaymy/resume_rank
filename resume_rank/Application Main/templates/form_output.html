@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+</head>
+
+<body>
+
+
+    <table class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col" style="color: gold;">Education Degree</th>
+                <th scope="col" style="color: crimson;">Required Keywords</th>
+                <th scope="col" style="color: dodgerblue;">Optional keywords</th>
+                <th scope="col" style="color: gold;">Education Field</th>
+                <th scope="col" style="color: crimson;">Percentage Match Required</th>
+                <th scope="col" style="color: dodgerblue;">Percentage Match Optional</th>
+                <th scope="col" style="color: crimson;">Cosine Similarity Required</th>
+                <th scope="col" style="color: dodgerblue;">Cosine Similarity Optional</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            {% for candidate_name, candidate_data in bozo.items() %}
+                <tr>
+                    <td>{{candidate_name}}</td>
+                {% for data_identifier, data in candidate_data.items() %}
+                    {% if data_identifier == "Education Degree" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Education Major" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Must Have Keywords Frequencies" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Percentage Match Must Have" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Cosine Similarity Must Have Keywords" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Optional keywords Frequencies" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Percentage Match Optional" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                    {% if data_identifier == "Cosine Similarity Optional Keywords" %}
+                        <td>{{ data }}</td>
+                    {% endif %}
+
+                {% endfor %}
+                </tr>
+            {% endfor %}
+<!-- 
+            {% for resume, data in bozo.items() %}
+            <h5>{{resume}}</h5>
+            {% for x, y in data.items() %} {{y}}
+            <br> {% endfor %}
+            <hr> {% endfor %} -->
+
+        </tbody>
+    </table>
+</body>
+
+</html>
